@@ -3,9 +3,9 @@ A template for coqdoc.
 
 ## Usage
 
-### recommend
+### recommend (html)
 
-Use [coq2html](https://github.com/xavierleroy/coq2html) to generate html file.
+Use [coq2html](https://github.com/xavierleroy/coq2html) to generate html files.
 
 ```shell
 make
